@@ -1,5 +1,10 @@
 # sql-challenge
 
+Data Modeling
+Inspect the CSVs and sketch out an ERD of the tables. 
+
+![Image](https://github.com/pemenalo/sql-challenge/blob/main/EmployeeSQL/employee_erd.png)
+
 Data Engineering
 
 
